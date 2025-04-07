@@ -1,4 +1,4 @@
-def subarraySum(self, nums: List[int], k: int) -> int:
+def subarraySum(nums: list[int], k: int) -> int:
     count = {
         0: 1
     }
